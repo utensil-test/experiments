@@ -4,7 +4,7 @@ categories:
   - title: 🚀 Features
     label: enhancement
   - title: 🐛 Bug Fixes
-    label: fix
+    label: bug
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
   ## Changes
